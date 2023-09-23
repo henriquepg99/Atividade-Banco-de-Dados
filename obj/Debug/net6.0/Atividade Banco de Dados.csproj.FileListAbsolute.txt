@@ -1,0 +1,6 @@
+C:\Users\henri\Desktop\Atividade Banco de Dados\obj\Debug\net6.0\Atividade Banco de Dados.csproj.AssemblyReference.cache
+C:\Users\henri\Desktop\Atividade Banco de Dados\obj\Debug\net6.0\Atividade Banco de Dados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\henri\Desktop\Atividade Banco de Dados\obj\Debug\net6.0\Atividade Banco de Dados.AssemblyInfoInputs.cache
+C:\Users\henri\Desktop\Atividade Banco de Dados\obj\Debug\net6.0\Atividade Banco de Dados.AssemblyInfo.cs
+C:\Users\henri\Desktop\Atividade Banco de Dados\obj\Debug\net6.0\Atividade Banco de Dados.csproj.CoreCompileInputs.cache
+C:\Users\henri\Desktop\Atividade Banco de Dados\obj\Debug\net6.0\Atividade Banco de Dados.MvcApplicationPartsAssemblyInfo.cache
